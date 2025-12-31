@@ -1,11 +1,11 @@
 package com.sample;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 public class StringManipulatorTest {
 
     @Test
-    public void someTest() {
+    public void testRemoveConsecutiveCharactersForRunsGreaterThan() {
 
     }
 
